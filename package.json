@@ -1,0 +1,19 @@
+{
+  "name": "errservertalieh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arashioz/errserver.git"
+  },
+  "author": "arashioz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arashioz/errserver/issues"
+  },
+  "homepage": "https://github.com/arashioz/errserver#readme"
+}
